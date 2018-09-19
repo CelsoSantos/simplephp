@@ -90,7 +90,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example for EOSC</h2>
           <p>
-            <img src="eosc_logo.png">
+            <img src="syone.png">
           </p>
         </div>
       </div>
