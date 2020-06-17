@@ -92,7 +92,6 @@
           <p>
             <img src="upskill.png">
           </p>
-          <p></p>
         </div>
       </div>
         </div><!-- /col -->
